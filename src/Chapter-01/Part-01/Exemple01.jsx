@@ -1,6 +1,6 @@
 function Exemple01() {
   const user = {
-    name: "Rohan",
+    name: "Vikash",
     role: "Developer",
   }
 
