@@ -1,9 +1,9 @@
-import Exemple01 from './Chapter-01/Part-01/Exemple01.jsx'
+import Variable01 from './Chapter-01/Part-01/Variable.jsx'
 
 function App() {
   return (
     <div>
-      <Exemple01 />
+      <Variable01 />
     </div>
   )
 }
